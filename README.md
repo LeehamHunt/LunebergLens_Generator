@@ -1,6 +1,6 @@
 # Lüneburg Lens Generator
 
-![Application Screenshot](images/application.png)
+![Application Screenshot](images/CSTSimulation.png)
 
 ## Overview
 
