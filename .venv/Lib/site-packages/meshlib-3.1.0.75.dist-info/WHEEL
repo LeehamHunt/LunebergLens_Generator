@@ -1,0 +1,11 @@
+Wheel-Version: 1.0
+Generator: setuptools (80.10.2)
+Root-Is-Purelib: true
+Tag: py38-none-win_amd64
+Tag: py39-none-win_amd64
+Tag: py310-none-win_amd64
+Tag: py311-none-win_amd64
+Tag: py312-none-win_amd64
+Tag: py313-none-win_amd64
+Tag: py314-none-win_amd64
+
