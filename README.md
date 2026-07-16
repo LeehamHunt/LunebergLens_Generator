@@ -69,7 +69,7 @@ The interface allows users to:
 * Adjust generation settings
 * Export completed models
 
-![GUI](images/gui.png)
+<img src="https://github.com/LeehamHunt/LunebergLens_Generator/blob/main/images/GUI.png">
 
 ---
 
